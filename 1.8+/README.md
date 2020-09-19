@@ -3,17 +3,17 @@
 ### 下载清单文件
 
 ```
-wget https://gitee.com/Outsrkem/kubernetes/raw/master/metrics-server/1.8+/aggregated-metrics-reader.yaml
-wget https://gitee.com/Outsrkem/kubernetes/raw/master/metrics-server/1.8+/auth-delegator.patch
-wget https://gitee.com/Outsrkem/kubernetes/raw/master/metrics-server/1.8+/auth-delegator.yaml
-wget https://gitee.com/Outsrkem/kubernetes/raw/master/metrics-server/1.8+/auth-reader.patch
-wget https://gitee.com/Outsrkem/kubernetes/raw/master/metrics-server/1.8+/auth-reader.yaml
-wget https://gitee.com/Outsrkem/kubernetes/raw/master/metrics-server/1.8+/metrics-apiservice.patch
-wget https://gitee.com/Outsrkem/kubernetes/raw/master/metrics-server/1.8+/metrics-apiservice.yaml
-wget https://gitee.com/Outsrkem/kubernetes/raw/master/metrics-server/1.8+/metrics-server-deployment.patch
-wget https://gitee.com/Outsrkem/kubernetes/raw/master/metrics-server/1.8+/metrics-server-deployment.yaml
-wget https://gitee.com/Outsrkem/kubernetes/raw/master/metrics-server/1.8+/metrics-server-service.yaml
-wget https://gitee.com/Outsrkem/kubernetes/raw/master/metrics-server/1.8+/resource-reader.yaml
+wget https://gitee.com/Outsrkem/metrics-server/raw/master/1.8+/aggregated-metrics-reader.yaml
+wget https://gitee.com/Outsrkem/metrics-server/raw/master/1.8+/auth-delegator.patch
+wget https://gitee.com/Outsrkem/metrics-server/raw/master/1.8+/auth-delegator.yaml
+wget https://gitee.com/Outsrkem/metrics-server/raw/master/1.8+/auth-reader.patch
+wget https://gitee.com/Outsrkem/metrics-server/raw/master/1.8+/auth-reader.yaml
+wget https://gitee.com/Outsrkem/metrics-server/raw/master/1.8+/metrics-apiservice.patch
+wget https://gitee.com/Outsrkem/metrics-server/raw/master/1.8+/metrics-apiservice.yaml
+wget https://gitee.com/Outsrkem/metrics-server/raw/master/1.8+/metrics-server-deployment.patch
+wget https://gitee.com/Outsrkem/metrics-server/raw/master/1.8+/metrics-server-deployment.yaml
+wget https://gitee.com/Outsrkem/metrics-server/raw/master/1.8+/metrics-server-service.yaml
+wget https://gitee.com/Outsrkem/metrics-server/raw/master/1.8+/resource-reader.yaml
 ```
 
 ### 打补丁
